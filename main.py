@@ -31,7 +31,7 @@ def get_file_language(file_name):
         '.cs': 'csharp',
         '.html': 'html',
         '.css': 'css',
-        '.sh': 'shell',
+        '.sh': 'bash',
         '.md': 'markdown',
         '.rst': 'restructuredtext',
         '.txt': '',
